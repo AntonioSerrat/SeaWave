@@ -1,3 +1,3 @@
 # SeaWave
-  This page its begginer login/sigin page
+  This page its begginer login/signin page
    I apreciatte help comments, thanks.
